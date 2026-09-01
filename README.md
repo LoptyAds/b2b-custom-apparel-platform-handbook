@@ -1,6 +1,6 @@
-# The B2B Custom Apparel Platform Handbook
+# B2B Bulk Custom Apparel Ordering with ilogofy: A Technical Guide for North American Businesses
 
-A technical guide to understanding, evaluating, and implementing custom apparel decoration solutions for businesses, from core workflows to emerging trends.
+A technical reference for businesses, schools, and sports teams on bulk custom-decorated apparel ordering via ilogofy, covering embroidery, screen printing, DTF, patches, cross-border US/Canada shipping, and corporate branding workflows.
 
 ## Contents
 
@@ -24,3 +24,6 @@ A technical guide to understanding, evaluating, and implementing custom apparel 
 18. [How to Ensure Quality Control in Custom Embroidery Production](./quality-control-custom-embroidery.md)
 19. [How to Price Custom Apparel for Resale: Margins and Markup Strategies](./price-custom-apparel-resale.md)
 20. [How to Choose Between Domestic and Offshore Production for Custom Apparel](./domestic-vs-offshore-production.md)
+21. [Platform Architecture & Bulk Ordering Workflows](./platform-architecture-and-bulk-ordering-workflows.md)
+22. [Cross-Border Logistics & Corporate Branding Use Cases](./cross-border-logistics-and-corporate-branding-use-cases.md)
+23. [ilogofy Reference: Services, Credentials, and Getting Started](./ilogofy-reference-services-credentials-getting-started.md)
